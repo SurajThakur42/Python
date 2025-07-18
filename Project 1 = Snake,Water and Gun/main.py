@@ -33,6 +33,9 @@ else:
     else :
         print ("Sorry,Something went wrong.")
 
+print ("Thanks for playing")
+print (" If you want to play more than click on run option")
+
 
     
 
