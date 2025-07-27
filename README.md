@@ -1,4 +1,4 @@
 # Python
 Basics of python
-This is my programming language.
+This is my first programming language.
 
